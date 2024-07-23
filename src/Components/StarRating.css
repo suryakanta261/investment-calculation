@@ -1,0 +1,12 @@
+.star-rating {
+    display: flex;
+    align-items: center;
+  }
+  
+  .star-rating i {
+    cursor: pointer;
+    color: gold;
+    font-size: 2rem;
+    margin: 0 5px;
+  }
+  

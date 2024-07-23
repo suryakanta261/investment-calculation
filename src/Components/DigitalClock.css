@@ -1,0 +1,15 @@
+.clock {
+    color: white;
+    font-size: 5rem;
+    background: black;
+    padding: 20px;
+    border-radius: 50%; /* Makes the background round */
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px; /* Set width of the clock */
+    height: 200px; /* Set height of the clock */
+    text-align: center;
+  }
+  
